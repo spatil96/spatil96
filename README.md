@@ -22,20 +22,21 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, JavaScript, AWS Cloud Development**
 
-- 👨‍💻 All of my projects are available at [https://dshetty3.github.io/DishaShetty/](https://dshetty3.github.io/DishaShetty/)
+<!-- - 👨‍💻 All of my projects are available at [https://spatil38.github.io/DishaShetty/](https://dshetty3.github.io/DishaShetty/) -->
 
 - 💬 Ask me about **React js, SpringBoot, Java, Javascript, jQuery, HTML5, CSS**
 
 - 📫 How to reach me **sumeet.patil@hotmail.com**
 
-- ⚡ Fun fact about me **I love to read, and huge fan of film buff (also I am funny)**
+- ⚡ Fun fact about me **I love to travel, and explore places, food and culture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumeet-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumeet Patil" height="30" width="40" /></a>
-<a href="https://fb.com/disha shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="disha shetty" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/disha shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="disha shetty" height="30" width="40" /></a>
 <a href="https://instagram.com/dishashettayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishashettayy" height="30" width="40" /></a>
 </p>
+-->
 
 ### Stats for this account: 
 <p align="center">

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/dshetty3/dshetty3/blob/main/Github%20Banner.png)
+<!--![logo](https://github.com/dshetty3/dshetty3/blob/main/Github%20Banner.png) -->
 <h1 align="center">नमस्ते (Namaste) 🙏 , I'm Sumeet Patil</h1>
 <h3 align="center">A passionate full stack developer currently pursuing Masters degree in Computer Science.</h3>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React js, SpringBoot, Java, Javascript, jQuery, HTML5, CSS**
 
-- 📫 How to reach me **dshetty3@binghamton.edu**
+- 📫 How to reach me **sumeet.patil@hotmail.com**
 
 - ⚡ Fun fact about me **I love to read, and huge fan of film buff (also I am funny)**
 

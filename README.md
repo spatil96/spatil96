@@ -33,17 +33,14 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumeet-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumeet Patil" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/disha shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="disha shetty" height="30" width="40" /></a>
-<a href="https://instagram.com/dishashettayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishashettayy" height="30" width="40" /></a>
-</p>
--->
+
 
 ### Stats for this account: 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/spatil96/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=spatil96&show_icons=true&theme=radical" />
 </a>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github.com/spatil96/convoychat">

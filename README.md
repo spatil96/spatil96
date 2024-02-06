@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## About Me
 Hi, I'm Sumeet Patil, a skilled Software Developer. I currently pursuing Master's degree in Computer Science from Binghamton University. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
-![](https://komarev.com/ghpvc/?username=mansithanki&color=blue)
+![](https://komarev.com/ghpvc/?username=spatil96&color=blue)
 
 Skills: Micro services/ Spring Boot/ REACT / JS / HTML / CSS
 

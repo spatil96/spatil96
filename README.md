@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### A Technology and Data Enthusiast, Software Engineer and Web Developer 💻
 
 ## About Me
-Hi, I'm Sumeet Patil, a skilled **Software Developer**. I currently pursuing **Master's degree in Computer Science from Binghamton University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Sumeet Patil, a skilled **Software Developer**. I currently pursuing **Master's degree in Computer Science from Binghamton University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. Excellent communicator and sound decision-maker with proven relationship-building skills. Frequently chosen for challenging assignments based on past performance. Seeking a role to apply exceptional ability to switch between programming languages and frameworks as needed, while working quickly and independently. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
 ![](https://komarev.com/ghpvc/?username=spatil96&color=blue)
 

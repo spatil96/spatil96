@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sumeet
+# I'm Sumeet
 ### A Technology and Data Enthusiast, Software Engineer and Web Developer 💻
 
 ## About Me

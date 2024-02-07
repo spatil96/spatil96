@@ -15,25 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Sumeet
-###A Technology and Data Enthusiast, Software Engineer and Web Developer 💻
+### A Technology and Data Enthusiast, Software Engineer and Web Developer 💻
 
 ## About Me
-Hi, I'm Sumeet Patil, a skilled Software Developer. I currently pursuing Master's degree in Computer Science from Binghamton University. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Sumeet Patil, a skilled **Software Developer**. I currently pursuing **Master's degree in Computer Science from Binghamton University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
 ![](https://komarev.com/ghpvc/?username=spatil96&color=blue)
 
-Skills: Micro services/ Spring Boot/ REACT / JS / HTML / CSS
+### aboutMe.js
 
-- 🔭 I’m currently working on this page. 
-- 😄 Pronouns: he/him 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/spatil96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumeet-p/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatil96)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=spatil96&show_icons=true&count_private=true)  
-
-
+```javascript
+const Sumeet = {
+    pronouns: "he" | "him",
+    code: ["Java", "SpringBoot", "React Js", "Javascript", "Python", "SQL", "C#", "HTML", "CSS"],
+    askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "tech", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize", "tailwindcss"],
+            js: ["React", "Typescript"]
+        },
+        backEnd: {
+            js: ["node"],
+            framework: ["SpringBoot", "Spring", "struts"]
+        },
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+        misc: ["Git", "Tableau", "AWS", "Selenium", "Jupyter Notebook"]
+    }
+};
+```
+## 📫 Get in touch
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/spatil96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumeet-p/)
